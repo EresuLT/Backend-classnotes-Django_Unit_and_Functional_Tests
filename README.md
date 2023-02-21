@@ -4,6 +4,7 @@ Django Testing
 ### Nice to have VSCode Extentions:
 - Djaneiro - Django Snippets  (Be carefull about other conflicting extentions!)
 
+
 ### Needs
 - Python (add the path environment variable while installing)
 - pip
